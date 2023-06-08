@@ -10,7 +10,6 @@ public class Expense {
         this.keterangan = keterangan;
         this.nominal = nominal;
     }
-//    COBA
     public int getId() {
         return id;
     }
