@@ -10,7 +10,7 @@ public class Expense {
         this.keterangan = keterangan;
         this.nominal = nominal;
     }
-
+//    COBA
     public int getId() {
         return id;
     }
@@ -29,6 +29,7 @@ public class Expense {
 
     public void setNominal(double nominal) {
         this.nominal = nominal;
+
     }
 
     @Override
